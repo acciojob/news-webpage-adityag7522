@@ -1,1 +1,56 @@
 /*  your css code here. If applicable */
+body
+{
+	background-color: #f5f5f5;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+}
+h3
+{
+	text-align: center;
+	border: 1px solid #011e29;
+	background-color: #011e29;
+	color: white;
+	font-style: bold;
+	padding: 20px;
+}
+header
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+.holder
+{
+	display: flex;
+	justify-content: space-evenly;
+	text-align: center;
+}
+.Latest-News-section
+{
+	border: 1px solid #f5f5f5;
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+}
+.Main-Article-Section
+{
+	border: 1px solid #f5f5f5;
+	background-color: white;
+	border-radius: 10px;
+	padding: 20px;
+}
+.pictorial-news-section
+{
+	border: 1px solid #f5f5f5;
+	background-color: white;
+	border-radius: 10px;
+	items-align: right;
+	padding: 20px;
+}
+.pictorial-news-section li
+{
+	list-style-type: none;
+}
+img
+{
+	width: 150px;
+}
